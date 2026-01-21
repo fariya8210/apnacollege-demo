@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my 4th Git Repository
 <br>
-Author - Fariya Naaz
+Author - Fariya Naaz (Student)
